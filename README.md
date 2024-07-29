@@ -14,10 +14,11 @@ To install all the tools and resources in this lab, follow these steps:
    ```bash
    git clone https://github.com/yourusername/termux-labs.git
    cd termux-labs
-   
+   ```
 2. **Run the setup script:**
   ```bash
   bash setup.sh
+```
 
 **📚 Labs & Challenges**
 We are constantly adding new labs and challenges to this repository. Here’s what you can expect:
